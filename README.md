@@ -6,9 +6,9 @@
 💻 FullStack Developer <br>
 💬 Bilingual (PT-EN) <br>
 📚 Bringing the knowledge from sociolinguistics to TI  <br>
-💡 Ready to create more accessibility through technology <br>
-🎒 Intending to continue my graduation focusing on AI and NLP <br> 
-🟪 Right now working with C#, .NET and React.JS <br>
+🎒 Interested in AI and NLP <br> 
+💡 Right now working with C#, .NET and React.JS <br>
+📧 tauane.mes@gmail.com
   
 ##
 
