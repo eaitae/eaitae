@@ -29,6 +29,9 @@
 </div>
   
   <br>
+  <div align="center">
+    <p> Follow me: </p> 
+  </div>
   
   <div style="display: inline_block" align="center"> 
 
