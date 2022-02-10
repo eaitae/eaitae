@@ -1,7 +1,7 @@
 ### Hey! I'm Tae 👋
 
 <div>
-  <img align="left" alt="Tae-avatar"  height="150" style="border-radius:15px;" src="https://media.discordapp.net/attachments/941386143168098406/941386235312742470/download20220204122522.png">
+  <img align="left" alt="Tae-avatar"  height="145" style="border-radius:15px;" src="https://media.discordapp.net/attachments/941386143168098406/941386235312742470/download20220204122522.png">
   </div>
 💻 FullStack Developer <br>
 💬 Bilingual (PT-EN) <br>
