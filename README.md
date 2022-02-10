@@ -3,11 +3,11 @@
 <div>
   <img align="left" alt="Tae-avatar"  height="145" style="border-radius:15px;" src="https://media.discordapp.net/attachments/941386143168098406/941386235312742470/download20220204122522.png">
   </div>
-💻 FullStack Developer <br>
+💻 <b>FullStack Developer</b> <br>
 💬 Bilingual (PT-EN) <br>
-📚 Bringing the knowledge from sociolinguistics to TI  <br>
-🎒 Interested in AI and NLP <br> 
-💡 Right now working with C#, .NET and React.JS <br>
+📚 Bringing the knowledge <i>from</i> <b>sociolinguistics</b> to <b>TI</b>  <br>
+🎒 Interested in <b>AI</b> and <b>NLP</b> <br> 
+💡 Right now working with <b>C#**</b>, <b>.NET</b> and <b>React.JS</b> <br>
 📧 tauane.mes@gmail.com
   
 ##
@@ -28,9 +28,8 @@
   <img align="center" alt="Tae-Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
   
-  <br>
   <div align="center">
-    <p> Follow me: </p> 
+    <h6> Follow me: </h6> 
   </div>
   
   <div style="display: inline_block" align="center"> 
