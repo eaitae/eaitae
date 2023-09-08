@@ -1,8 +1,5 @@
 ### Hey! I'm Tae 👋
 
-<div>
-  <img align="left" alt="Tae-avatar"  height="145" style="border-radius:15px;" src="https://media.discordapp.net/attachments/941386143168098406/941386235312742470/download20220204122522.png">
-  </div>
 💻 <b>FullStack Developer</b> <br>
 💬 Bilingual (PT-EN) <br>
 📚 Bringing the knowledge <i>from</i> <b>sociolinguistics</b> to <b>TI</b>  <br>
