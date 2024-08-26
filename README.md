@@ -1,11 +1,10 @@
 ### Hey! I'm Tae 👋
 
-💻 <b>FullStack Developer</b> <br>
+💻 <b>Back end Developer</b> <br>
 💬 Bilingual (PT-EN) <br>
 📚 Bringing the knowledge <i>from</i> <b>sociolinguistics</b> to <b>TI</b>  <br>
-🎒 Interested in <b>UI/UX Design</b><br> 
-💡 Right now working with <b>C#</b>, <b>.NET</b> and <b>React.JS</b> <br>
-📧 tauane.mes@gmail.com
+🎒 Interested in <b>leading tech teams</b><br> 
+💡 Right now working with <b>Scala</b> and <b>ZIO</b> 
   
 ##
 
